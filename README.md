@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java, Python, ReactJS, DevOps
+# 💻 Tech Stack:
+Java Html5 CSS3 Bootstrap 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BatuhanKANBER&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BatuhanKANBER&theme=dark&hide_border=false)<br/>
