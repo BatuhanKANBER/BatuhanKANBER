@@ -11,9 +11,9 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 	![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 # 📊 GitHub Stats:
-![BatuhanKANBER's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanKANBER&show_icons=true&theme=dark) </br>
+![BatuhanKANBER's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanKANBER&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanKANBER&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) </br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BatuhanKANBER&theme=dark&hide_border=false) </br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanKANBER&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
 
 ### 📫 How to reach me: https://linkedin.com/in/batuhan-kanber-784046238
 <!--
