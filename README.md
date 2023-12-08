@@ -12,8 +12,7 @@
 
 # 📊 GitHub Stats:
 ![BatuhanKANBER's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanKANBER&show_icons=true&theme=dark) </br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BatuhanKANBER&theme=dark&hide_border=false) </br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanKANBER&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
 
 
 ### 📫 How to reach me: https://linkedin.com/in/batuhan-kanber-784046238
