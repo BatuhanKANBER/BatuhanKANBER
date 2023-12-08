@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💻 Tech Stack:
-Java, Html5, CSS3, Bootstrap, C#, MVC .NET, CI/CD, Jenkins, Git, Ubuntu 
+Java, C#, MVC .NET, PHP, Html5, CSS3, Bootstrap, CI/CD, Jenkins, Git, Ubuntu 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BatuhanKANBER&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BatuhanKANBER&theme=dark&hide_border=false)<br/>
